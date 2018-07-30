@@ -34,6 +34,10 @@ Our custom `Elevator` parses a `JWT` and gets the custom payload, which inside c
 
 ## Auto documentation
 
+For creating the auto documentation for the application, the [Apipie](https://github.com/Apipie/apipie-rails) `gem` was used.
+
+When deployed, the documentation is available at `localhost:3000/apipie`.
+
 ## Deployment
 
 For deployment information, please visit the `release` repo of this project, which is located [here](https://github.com/ferbueno/ruby-angular-back).
